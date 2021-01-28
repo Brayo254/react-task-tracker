@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Visit barber",
+      "day": "13th july at 5:30PM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Wash clothes",
+      "day": "15th August at 9:00 AM",
+      "reminder": false
+    },
+    {
+      "text": "watch breaking bad",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
